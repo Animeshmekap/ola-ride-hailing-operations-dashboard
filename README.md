@@ -68,7 +68,7 @@ This dashboard provides deep insights into ride-hailing operations, helping iden
 ![Vehicle](Ola-Slidesuhub/2.png)
 
 ### Revenue Dashboard
-![Revenue](screenshots/revenue.png)
+![Revenue](Ola-Slidesuhub/3.png)
 
 ### Cancellation Dashboard
 ![Cancellation](screenshots/cancellation.png)
