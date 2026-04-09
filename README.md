@@ -74,7 +74,7 @@ This dashboard provides deep insights into ride-hailing operations, helping iden
 ![Cancellation](Ola-Slidesuhub/4.png)
 
 ### Ratings Dashboard
-![Ratings](screenshots/ratings.png)
+![Ratings](Ola-Slidesuhub/5.png)
 
 ---
 
