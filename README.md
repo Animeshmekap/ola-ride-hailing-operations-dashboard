@@ -62,7 +62,7 @@ This dashboard provides deep insights into ride-hailing operations, helping iden
 ## 🖼️ Dashboard Preview
 
 ### Overall Dashboard
-![Overall](screenshots/overall.png)
+![Overall](Ola-Slidesuhub/1.png)
 
 ### Vehicle Type Dashboard
 ![Vehicle](screenshots/vehicle_type.png)
